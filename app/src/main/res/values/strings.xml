@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TeaCalc</string>
+    <string name="text1">Сумма: </string>
+    <string name="text2">Чаевые: </string>
+    <string name="text3">Сумма по чеку: </string>
+    <string name="text4">"Итого (с чаевыми): "</string>
+</resources>
